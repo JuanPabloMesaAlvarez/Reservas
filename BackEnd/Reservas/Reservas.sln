@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{5FACDFE1-F67E-44E9-869D-4A58DA4F9180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservas.Domain", "Reservas.Domain\Reservas.Domain.csproj", "{F91E6A75-9D89-4894-BC08-B2CDB2FB3824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91E6A75-9D89-4894-BC08-B2CDB2FB3824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91E6A75-9D89-4894-BC08-B2CDB2FB3824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91E6A75-9D89-4894-BC08-B2CDB2FB3824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91E6A75-9D89-4894-BC08-B2CDB2FB3824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F91E6A75-9D89-4894-BC08-B2CDB2FB3824} = {5FACDFE1-F67E-44E9-869D-4A58DA4F9180}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47CEBAD-4C31-4093-80AA-B2963A27E548}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Reservas\BackEnd\Reservas\Reservas.Domain\bin\Debug\Reservas.Domain.dll
+C:\Reservas\BackEnd\Reservas\Reservas.Domain\bin\Debug\Reservas.Domain.pdb
+C:\Reservas\BackEnd\Reservas\Reservas.Domain\obj\Debug\Reservas.Domain.csprojResolveAssemblyReference.cache
+C:\Reservas\BackEnd\Reservas\Reservas.Domain\obj\Debug\Reservas.Domain.csproj.CoreCompileInputs.cache
+C:\Reservas\BackEnd\Reservas\Reservas.Domain\obj\Debug\Reservas.Domain.dll
+C:\Reservas\BackEnd\Reservas\Reservas.Domain\obj\Debug\Reservas.Domain.pdb
